@@ -1,6 +1,6 @@
 # A simple Web Crawler Bot in java 🕷️
 
-This is a simple web crawler CLI app. You can use it search websites pages at a certain depth.
+This is a simple web crawler CLI app. You can use it to search website url pages at a certain depth.
 
 ## Requirements 🪶️
 
